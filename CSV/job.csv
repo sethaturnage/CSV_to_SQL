@@ -1,0 +1,9 @@
+﻿JobId,Title,StartDate,PostDate,DeadLine,Salary,Description,RecruiterId
+1,Amazon Developer,11/13/2018,11/1/2018,11/12/2018,120000,Work on the sales rank pages.,2
+2,App Programmer,8/1/2019,11/1/2018,5/1/2019,55000,Develop Google Glass App,4
+3,Insurance Software Manager,8/1/2019,11/1/2018,5/1/2019,50000,AI algorithms to underwrite insurance,1
+4,Automation Developer,8/1/2019,11/1/2018,5/1/2019,85000,System control charts and optimization,3
+5,Alexa Developer,8/3/2019,10/19/2018,5/1/2019,100000,Silicon Valley Startup,1
+6,Backend SQL Database Dev,8/2/2019,11/2/2018,5/2/2019,75000,Customer Data Storage,7
+9,Java Developer,8/2/2019,9/14/2018,5/2/2019,65000,Desktop Application,4
+10,Google Home Developer,8/2/2019,11/2/2018,5/2/2019,60000,Silicon Valley Startup,1
