@@ -2,8 +2,8 @@
 
 Output:
 # create.sql
->fix data being read in as something else
+>fix strings being read in as 'date' datatype
 
 # insert.sql
->fix string delimeters
->eliminate empty/blank columns
+>add quotes in the proper places
+>eliminate empty/blank columns 
